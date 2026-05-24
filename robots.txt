@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isaacn-ai.github.io/ASTER/sitemap.xml
