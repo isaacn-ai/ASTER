@@ -1,0 +1,24 @@
+.aster-chatbot-toggle {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 2000;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-border);
+  background: var(--color-accent-primary);
+  color: #101317;
+  padding: .7rem 1rem;
+  box-shadow: var(--shadow-md), var(--shadow-glow);
+}
+
+.aster-chatbot-panel {
+  position: fixed;
+  right: 1rem;
+  bottom: 4.25rem;
+  width: min(380px, calc(100vw - 2rem));
+  height: min(560px, calc(100vh - 6rem));
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-primary);
+}
