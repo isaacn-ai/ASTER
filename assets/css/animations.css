@@ -1,0 +1,1 @@
+@media (prefers-reduced-motion:no-preference){#hero h1{animation:fade .8s ease both}@keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}}

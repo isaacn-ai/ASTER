@@ -1,0 +1,4 @@
+#chatbot-toggle{position:fixed;right:1rem;bottom:1rem;border-radius:999px;padding:.7rem 1rem;background:#c8aa6a;color:#111;border:none}
+#chatbot{position:fixed;right:1rem;bottom:4.5rem;width:380px;max-width:calc(100vw - 2rem);height:560px;max-height:70vh;background:#111317;border:1px solid #2b2f35;display:none;flex-direction:column}
+#chatbot.open{display:flex}
+#chatbot-log{flex:1;overflow:auto;padding:.7rem}
